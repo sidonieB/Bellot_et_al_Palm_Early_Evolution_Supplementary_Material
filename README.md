@@ -1,3 +1,8 @@
+
+**This repository is now obsolete, please visit the repository for [Version 2](https://github.com/sidonieB/Bellot_et_al_Palm_Early_Evolution_Supplementary_Material_Version_2) instead.**  
+  
+  
+  
 Supplementary Material for:  
   
 Early Cretaceous Origin and Evolutionary History of Palms (Arecaceae) inferred from
